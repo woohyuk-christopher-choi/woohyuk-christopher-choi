@@ -16,12 +16,7 @@
 	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-</div>
-<br>
-<div align=center>
-	<h3>🏆 BAEKJOON Rank 🏆</h3>
-	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=asaf0121)](https://solved.ac/asaf0121)
+
 </div>
 <div align=center>
 	<h3>🎨 SNS 🎨</h3>
