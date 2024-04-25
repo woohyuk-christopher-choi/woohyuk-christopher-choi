@@ -29,9 +29,6 @@
 	<a href="https://github.com/woohyuk-christopher-choi">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/CV-Resume-5cd0cd6818384b4b8e3adf44715d90be">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
 	<br>
 </div>
 <br>
