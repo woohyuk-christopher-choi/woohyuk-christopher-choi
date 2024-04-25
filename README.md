@@ -12,24 +12,14 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white" />
 	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 
-</div>
-<div align=center>
-	<h3>🎨 SNS 🎨</h3>
-</div>
-<div align=center>
-	<a href="https://velog.io/@asaf0121">
-		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
-	</a>
-	<a href="https://github.com/woohyuk-christopher-choi">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	</a>
-	<br>
 </div>
 <br>
 <div align=center>
