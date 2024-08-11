@@ -1,3 +1,5 @@
+### Woohyuk Christopher Choi
+
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=45" />	
 </div>
@@ -22,3 +24,7 @@
 <br>
 <div align=center>
 </div>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=woohyuk-christopher-choi&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woohyuk-chrisopher-choi&layout=compact&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
