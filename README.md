@@ -1,28 +1,26 @@
-### Woohyuk Christopher Choi
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Quant%20Researcher%20%7C%20Financial%20Engineering%20&descAlignY=55&descAlign=50" />
 </div>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,julia,git,github,postgres,vscode,pycharm,latex&theme=dark" />
 </p>
 
-### 📊 Quantitative Research & Modeling
+### Quantitative Research & Modeling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 </p>
 
-### ⚙️ Data Engineering & Infrastructure
+### Data Engineering & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,linux,bash,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,linux,bash&theme=dark" />
 </p>
 
-### 🧩 Libraries & Tools I Often Use
+### Libraries & Tools I Often Use
 <p align="center">
   <img src="https://img.shields.io/badge/OpenBB-5C2D91?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Polars-0093DD?style=for-the-badge&logo=polars&logoColor=white" />
@@ -35,7 +33,7 @@
 
 ---
 
-## 💹 Quantitative Finance
+## Quantitative Finance
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stochastic Control-0A66C2?style=for-the-badge&logo=latex&logoColor=white" />
@@ -58,7 +56,7 @@
 
 ---
 
-## 🔬 Current Research Focus
+## Current Research Focus
 
 - **Stochastic Control & Dynamic Optimization** — Mathematical modeling of decision-making under uncertainty, with applications to portfolio selection and risk management  
 - **Market Microstructure Modeling** — Analyzing order-flow dynamics, price formation, and optimal execution in high-frequency environments  
