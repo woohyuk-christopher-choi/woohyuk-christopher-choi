@@ -58,8 +58,9 @@
 
 ## Current Research Focus
 
-- <span style="color:#FFD700; font-weight:bold">**Partial-Observation Control in Limit Order Books**</span> —  
-  <span style="color:#FFD700">Studying optimal decision-making under incomplete market information, combining stochastic control theory with market microstructure dynamics.</span>  
+<p>
+  <img src="https://img.shields.io/badge/📘 Current%20Research-Partial%20Observation%20Control%20in%20Limit%20Order%20Books-1E90FF?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
 - **Stochastic Control & Dynamic Optimization** —  
   Mathematical frameworks for decision-making under uncertainty, with applications to portfolio allocation and risk-sensitive optimization.  
@@ -75,6 +76,7 @@
 
 - **Mathematical Finance Foundations** —  
   Measure-theoretic probability, stochastic calculus, and numerical PDE methods underpinning modern financial modeling.
+
 
 
 
