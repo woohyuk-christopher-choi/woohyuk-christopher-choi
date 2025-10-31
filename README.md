@@ -1,7 +1,7 @@
 ### Woohyuk Christopher Choi
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Quant%20Researcher%20%7C%20Financial%20Engineering%20%7C%20Optimization&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Quant%20Researcher%20%7C%20Financial%20Engineering%20%7C%20&descAlignY=55&descAlign=50" />
 </div>
 
 ---
