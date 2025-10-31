@@ -34,24 +34,26 @@
 </p>
 
 ---
+
 ## 💹 Quantitative Finance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stochastic Control-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optimal Portfolio Theory-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stochastic Control-0A66C2?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimal Portfolio Theory-007ACC?style=for-the-badge&logo=overleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Financial Econometrics-34A853?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Market Microstructure-8E44AD?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Asset Pricing Models-1A73E8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computational Finance-00599C?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computational Finance-00599C?style=for-the-badge&logo=gitbook&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stochastic Processes-FF9900?style=flat-square&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optimization & Control-0A66C2?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stochastic Processes-FF9900?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimization & Control-0A66C2?style=flat-square&logo=overleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistical Learning-007ACC?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine & Deep Learning-5C2D91?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Reinforcement Learning-1E90FF?style=flat-square&logo=openai&logoColor=white" />
 </p>
+
 
 
 ---
