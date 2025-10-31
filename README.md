@@ -14,7 +14,7 @@
 
 ### 📊 Quantitative Research & Modeling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,scipy,matplotlib,plotly&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 </p>
 
 ### ⚙️ Data Engineering & Infrastructure
