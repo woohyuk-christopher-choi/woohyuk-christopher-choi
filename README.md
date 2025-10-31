@@ -57,16 +57,17 @@
 
 ## 🔬 Current Research Focus
 
-- **Partial-Observation Market Making** — Stochastic control under hidden liquidity (POMDP / Wonham Filter)
-- **Softmax Risk Parity Portfolio** — Real-time optimization using order-flow signals and volatility imbalance
-- **High-Dimensional Covariance Estimation** — POET / LIFT estimators for multi-factor risk models
-- **Recursive Utility & Ambiguity Aversion** — Epstein–Zin utility and stochastic differential utility (SDU)
+- **Stochastic Control & Dynamic Optimization** — Mathematical modeling of decision-making under uncertainty, with applications to portfolio selection and risk management  
+- **Market Microstructure Modeling** — Analyzing order-flow dynamics, price formation, and optimal execution in high-frequency environments  
+- **Machine Learning & Deep Learning for Finance** — Applying data-driven methods to forecasting, regime detection, and factor modeling  
+- **Reinforcement Learning in Trading Systems** — Exploring policy optimization and adaptive control for automated strategy design  
+- **Mathematical Finance Foundations** — Measure-theoretic probability, stochastic calculus, and numerical PDE methods for financial systems
+
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/woohyukchoi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:woohyukchoi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://timepercent.ai"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/woohyuk-choi-55a95a24a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:asaf0121@postech.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
