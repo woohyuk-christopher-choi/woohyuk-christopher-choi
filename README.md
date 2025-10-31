@@ -78,9 +78,10 @@
   Measure-theoretic probability, stochastic calculus, and numerical PDE methods underpinning modern financial modeling.
 
 
-<a href="https://codeforces.com/profile/PoHang">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tourist&theme=dark&border_color=1E90FF" alt="Codeforces Stats Card">
+</p>
+
 
 
 ---
