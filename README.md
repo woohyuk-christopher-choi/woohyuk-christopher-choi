@@ -31,9 +31,6 @@
   <img src="https://img.shields.io/badge/Statsmodels-333333?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Backtrader-2D2D2D?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ccxt-20232A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
-  <img src="https://img.shields.io/badge/yfinance-00599C?style=for-the-badge&logo=yahoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/dartfss-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
