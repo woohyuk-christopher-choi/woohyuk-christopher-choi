@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Quant%20Researcher%20%7C%20Financial%20Engineering%20&descAlignY=55&descAlign=50" />
-</div>
+<h1 align="center">Woohyuk Christopher Choi</h1>
+<h3 align="center">Quantitative Research | Stochastic Control | Financial Engineering</h3>
+
 
 ---
 
@@ -76,11 +76,6 @@
 
 - **Mathematical Finance Foundations** —  
   Measure-theoretic probability, stochastic calculus, and numerical PDE methods underpinning modern financial modeling.
-
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PoHang&theme=dark&border_color=1E90FF" alt="Codeforces Stats Card">
-</p>
 
 
 
