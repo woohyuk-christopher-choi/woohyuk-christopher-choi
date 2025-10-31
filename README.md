@@ -83,8 +83,16 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/woohyuk-choi-55a95a24a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:asaf0121@postech.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/woohyuk-choi-55a95a24a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:asaf0121@postech.ac.kr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=MUyy81EAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
+  </a>
 </p>
+
