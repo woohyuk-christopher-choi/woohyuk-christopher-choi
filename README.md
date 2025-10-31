@@ -1,5 +1,5 @@
-<h1 align="center">Woohyuk Christopher Choi</h1>
-<h3 align="center">Quantitative Research | Stochastic Control | Financial Engineering</h3>
+<h1 align="center">Woohyuk Choi</h1>
+<h3 align="center">Quantitative Research | Financial Engineering</h3>
 
 
 ---
