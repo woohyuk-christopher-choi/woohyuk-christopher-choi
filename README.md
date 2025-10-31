@@ -9,7 +9,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,postgres,vscode,pycharm,latex,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,julia,git,github,postgres,vscode,pycharm,latex&theme=dark" />
 </p>
 
 ### 📊 Quantitative Research & Modeling
