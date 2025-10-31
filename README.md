@@ -2,8 +2,6 @@
 <h3 align="center">Quantitative Research | Financial Engineering</h3>
 
 
----
-
 ## Tech Stack
 
 <p align="center">
@@ -31,7 +29,6 @@
   <img src="https://img.shields.io/badge/ccxt-20232A?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
 </p>
 
----
 
 ## Quantitative Finance
 
@@ -53,8 +50,6 @@
 </p>
 
 
-
----
 
 ## Current Research Focus
 
@@ -78,8 +73,6 @@
   Measure-theoretic probability, stochastic calculus, and numerical PDE methods underpinning modern financial modeling.
 
 
-
----
 
 ### Connect with Me
 <p align="center">
