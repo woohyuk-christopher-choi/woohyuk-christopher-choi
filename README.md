@@ -58,11 +58,25 @@
 
 ## Current Research Focus
 
-- **Stochastic Control & Dynamic Optimization** — Mathematical modeling of decision-making under uncertainty, with applications to portfolio selection and risk management  
-- **Market Microstructure Modeling** — Analyzing order-flow dynamics, price formation, and optimal execution in high-frequency environments  
-- **Machine Learning & Deep Learning for Finance** — Applying data-driven methods to forecasting, regime detection, and factor modeling  
-- **Reinforcement Learning in Trading Systems** — Exploring policy optimization and adaptive control for automated strategy design  
-- **Mathematical Finance Foundations** — Measure-theoretic probability, stochastic calculus, and numerical PDE methods for financial systems
+- <span style="color:#FFD700; font-weight:bold">**Partial-Observation Control in Limit Order Books**</span> —  
+  <span style="color:#FFD700">Studying optimal decision-making under incomplete market information, combining stochastic control theory with market microstructure dynamics.</span>  
+
+- **Stochastic Control & Dynamic Optimization** —  
+  Mathematical frameworks for decision-making under uncertainty, with applications to portfolio allocation and risk-sensitive optimization.  
+
+- **Market Microstructure Modeling** —  
+  Modeling order-flow dynamics, execution costs, and liquidity evolution in high-frequency financial markets.  
+
+- **Machine Learning & Deep Learning for Finance** —  
+  Leveraging data-driven models for forecasting, regime identification, and factor extraction in complex financial systems.  
+
+- **Reinforcement Learning & Adaptive Control** —  
+  Exploring policy optimization for automated trading and real-time strategy adjustment.  
+
+- **Mathematical Finance Foundations** —  
+  Measure-theoretic probability, stochastic calculus, and numerical PDE methods underpinning modern financial modeling.
+
+
 
 
 ---
